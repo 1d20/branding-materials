@@ -1,3 +1,4 @@
+
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
@@ -14,9 +15,9 @@
    viewBox="0 0 85 55"
    version="1.1"
    id="SVGRoot"
-   inkscape:export-filename="C:\Users\ASDatsenko\Workspace\1d20\business_card_v_4.png"
-   inkscape:export-xdpi="96"
-   inkscape:export-ydpi="96"
+   inkscape:export-filename="C:\Users\ASDatsenko\Workspace\1d20\business_card_v_7.png"
+   inkscape:export-xdpi="96.058182"
+   inkscape:export-ydpi="96.058182"
    inkscape:version="0.92.1 r15371"
    sodipodi:docname="business_card.svg">
   <sodipodi:namedview
@@ -27,8 +28,8 @@
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
      inkscape:zoom="2"
-     inkscape:cx="124.59556"
-     inkscape:cy="50.812028"
+     inkscape:cx="293.68671"
+     inkscape:cy="31.914385"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -89,50 +90,61 @@
      inkscape:label="Layer 1">
     <path
        id="path4535"
-       style="fill:none;stroke:#000000;stroke-width:0.28726378;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
-       d="m 48.850542,28.843662 -0.009,7.327651 z m -11.022372,6.956847 4.662629,4.026882 -6.341341,-3.671775 1.678712,-0.355107 9.343485,0.0085 -4.680856,4.018433 6.350756,-3.656079 -1.6699,-0.362354 1.678887,-6.965297 -6.343262,-1.130695 -6.348837,1.114789 z m -1.669722,-6.972757 1.669722,6.972757 -1.678712,0.355107 z m 6.348832,-1.114789 6.343262,1.130699 -6.341339,-3.671776 z m -6.348837,1.114789 6.348837,-1.114789 0.0019,-2.541077 z m 6.348837,-1.114789 -4.67911,8.087546 9.343485,0.0085 v 0 z"
+       style="fill:none;stroke:#000000;stroke-width:0.3558189;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
+       d="m 50.366091,22.971528 -0.01115,9.076383 z m -13.652845,8.617088 5.775356,4.98789 -7.854692,-4.548037 2.079336,-0.439853 11.573292,0.01055 -5.797936,4.977428 7.866357,-4.528598 -2.068421,-0.44883 2.079553,-8.627556 -7.857074,-1.400534 -7.863978,1.380832 z m -2.068201,-8.636795 2.068201,8.636795 -2.079336,0.439853 z m 7.863972,-1.380832 7.857074,1.400539 -7.854691,-4.548043 z m -7.863978,1.380832 7.863978,-1.380832 0.0022,-3.147504 z m 7.863978,-1.380832 -5.795771,10.017627 11.573292,0.01055 v 0 z"
        inkscape:connector-curvature="0" />
     <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:3.51116633px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.08777917"
-       x="42.61552"
-       y="11.782797"
+       style="font-style:normal;font-weight:normal;font-size:5.02344799px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.12558621"
+       x="42.621204"
+       y="12.928992"
        id="text5926"><tspan
          sodipodi:role="line"
          id="tspan5924"
-         x="42.61552"
-         y="11.782797"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.50498843px;line-height:1.5;font-family:Georgia;-inkscape-font-specification:'Georgia, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;stroke-width:0.08777917">ANDRII DATSENKO</tspan><tspan
+         x="42.621204"
+         y="12.928992"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.01460886px;line-height:1.5;font-family:sans-serif;-inkscape-font-specification:sans-serif;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;stroke-width:0.12558621">ANDRII DATSENKO</tspan><tspan
          sodipodi:role="line"
-         x="42.61552"
-         y="17.040279"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.50498843px;line-height:1.5;font-family:Georgia;-inkscape-font-specification:'Georgia, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;stroke-width:0.08777917"
-         id="tspan5928">A.S.DVORNIK@GMAIL.COM</tspan><tspan
+         x="42.621204"
+         y="19.8319"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.01460886px;line-height:1.5;font-family:sans-serif;-inkscape-font-specification:sans-serif;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;stroke-width:0.12558621"
+         id="tspan5928" /><tspan
          sodipodi:role="line"
-         x="42.61552"
-         y="21.803926"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.50498843px;line-height:1.5;font-family:Georgia;-inkscape-font-specification:'Georgia, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;stroke-width:0.08777917"
+         x="42.621204"
+         y="26.11121"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.01460886px;line-height:1.5;font-family:sans-serif;-inkscape-font-specification:sans-serif;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;stroke-width:0.12558621"
          id="tspan5930" /></text>
     <path
        style="fill:none;stroke:#b3b3b3;stroke-width:0.15000001;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="M 5,32.499632 H 30.1625"
+       d="M 5,27.5 H 30.1625"
        id="path6670"
        inkscape:connector-curvature="0" />
     <path
        style="fill:none;stroke:#b3b3b3;stroke-width:0.15000001;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="M 53.842708,32.565777 80,32.433486"
+       d="M 53.842708,27.566146 80,27.433855"
        id="path6672"
        inkscape:connector-curvature="0" />
     <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:3.23717427px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.08092935"
-       x="31.101862"
-       y="48.781105"
+       style="font-style:normal;font-weight:normal;font-size:4.6911993px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.11727997"
+       x="25.33864"
+       y="44.933571"
        id="text6676"><tspan
          sodipodi:role="line"
          id="tspan6674"
-         x="31.101862"
-         y="48.781105"
-         style="stroke-width:0.08092935">1D20DEV.COM</tspan></text>
+         x="25.33864"
+         y="44.933571"
+         style="stroke-width:0.11727997">1D20DEV.COM</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:3.78640389px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.09466012"
+       x="22.349602"
+       y="51.212399"
+       id="text6680"><tspan
+         sodipodi:role="line"
+         id="tspan6678"
+         x="22.349602"
+         y="51.212399"
+         style="stroke-width:0.09466012">1d20dev@gmail.com</tspan></text>
   </g>
 </svg>
